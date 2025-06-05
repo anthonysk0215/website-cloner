@@ -1,5 +1,3 @@
-# Orchids Website Cloner
-
 A web application that uses AI to create pixel-perfect clones of any website. Built with Next.js, FastAPI, and Claude AI.
 
 ## Features
